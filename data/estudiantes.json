@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ashley",
+    "apellido": "Pluas",
+    "email": "daleska064@gmail.com",
+    "carnet": "0929936334",
+    "notas": {
+      "Estructura de Datos": [
+        8.0
+      ],
+      "Modelamiento": [
+        20.0
+      ]
+    },
+    "materias": [
+      "Estructura de Datos",
+      "Modelamiento"
+    ]
+  }
+]
